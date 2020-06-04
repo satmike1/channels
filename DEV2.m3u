@@ -1,0 +1,307 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ard_hd.png" group-title="Unterhaltung", Das Erste HD
+https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zdf_hd.png" group-title="Unterhaltung", ZDF HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd&profile=8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/swr_hd.png" group-title="Unterhaltung", SWR HD
+https://streams.wilmaa.com/m3u8/get?channelId=swr_hd&profile=8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/hr.png" group-title="Unterhaltung", HR
+https://streams.wilmaa.com/m3u8/get?channelId=hr&profile=8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/br_hd.png" group-title="Unterhaltung", Bayrischer Rundfunk
+https://streams.wilmaa.com/m3u8/get?channelId=br_hd&profile=8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/wdr_hd.png" group-title="Regional", WDR HD
+https://streams.wilmaa.com/m3u8/get?channelId=wdr_hd&profile=8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ndr_hd.png" group-title="Regional", NDR HD
+https://streams.wilmaa.com/m3u8/get?channelId=ndr_hd&profile=8
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/mdr.png" group-title="Regional", MDR
+https://streams.wilmaa.com/m3u8/get?channelId=mdr&profile=8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rbb.png" group-title="Regional", rbb Berlin
+https://streams.wilmaa.com/m3u8/get?channelId=rbb&profile=8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zdf_neo_hd.png" group-title="Unterhaltung", ZDF Neo HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd&profile=8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zdf_info_hd.png" group-title="Information", ZDF Info HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_info_hd&profile=8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ard_alpha.png" group-title="Information", ARD-alpha
+https://streams.wilmaa.com/m3u8/get?channelId=ard_alpha&profile=8
+#EXTINF:-1 tvg-id="One.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/einsfestival.png" group-title="Musik", ONE
+https://streams.wilmaa.com/m3u8/get?channelId=einsfestival&profile=8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/phoenix_hd.png" group-title="Unterhaltung", Phoenix HD
+https://streams.wilmaa.com/m3u8/get?channelId=phoenix_hd&profile=8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/3_sat_hd.png" group-title="Kultur", 3sat HD
+https://streams.wilmaa.com/m3u8/get?channelId=3_sat_hd&profile=8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/arte_de_hd.png" group-title="Kultur", ARTE DE HD
+https://streams.wilmaa.com/m3u8/get?channelId=arte_de_hd&profile=8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/orf_1_hd.png" group-title="Unterhaltung", ORF Eins HD
+https://streams.wilmaa.com/m3u8/get?channelId=orf_1_hd&profile=8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/orf_2_hd.png" group-title="Unterhaltung", ORF 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=orf_2_hd&profile=8
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_1_hd.png" group-title="Unterhaltung", SRF 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_1_hd&profile=8
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_2_hd.png" group-title="Unterhaltung", SRF 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_2_hd&profile=8
+#EXTINF:-1 tvg-id="SRFinfo.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sf_info_hd.png" group-title="Information", SRF info HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_info_hd&profile=8
+#EXTINF:-1 tvg-id="RTL.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_ch_hd.png" group-title="Unterhaltung", RTL CH HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd&profile=8
+#EXTINF:-1 tvg-id="RTL2.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_2_hd.png" group-title="Unterhaltung", RTL2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_2_hd&profile=8
+#EXTINF:-1 tvg-id="SuperRTL.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/super_rtl_hd.png" group-title="Kinder", SUPER RTL HD
+https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd&profile=8
+#EXTINF:-1 tvg-id="RTLNitro.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_nitro_hd.png" group-title="Unterhaltung", RTL NITRO HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_nitro_hd&profile=8
+#EXTINF:-1 tvg-id="Sat1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sat_1_hd.png" group-title="Unterhaltung", SAT.1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_hd&profile=8
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sat_1_gold.png" group-title="Unterhaltung", Sat.1 Gold
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_gold&profile=8
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/pro7_ch_hd.png" group-title="Unterhaltung", ProSieben HD
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_ch_hd&profile=8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/pro7_maxx.png" group-title="Unterhaltung", ProSieben MAXX
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_maxx&profile=8
+#EXTINF:-1 tvg-id="Kabel.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kabel_1_hd.png" group-title="Unterhaltung", Kabel Eins HD
+https://streams.wilmaa.com/m3u8/get?channelId=kabel_1_hd&profile=8
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kabel1_doku.png" group-title="Unterhaltung", Kabel 1 Doku
+https://streams.wilmaa.com/m3u8/get?channelId=kabel1_doku&profile=8
+#EXTINF:-1 tvg-id="Vox.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/vox_hd.png" group-title="Unterhaltung", VOX HD
+https://streams.wilmaa.com/m3u8/get?channelId=vox_hd&profile=8
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://images.zattic.com/logos/f54b2d4045d790768d80/white/210x120.png" group-title="Unterhaltung", VOXup    
+https://streams.wilmaa.com/m3u8/get?channelId=vox_up_de&profile=8
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_5.png" group-title="Unterhaltung", Tele 5
+https://streams.wilmaa.com/m3u8/get?channelId=tele_5&profile=8
+#EXTINF:-1 tvg-id="Sixx.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sixx_hd.png" group-title="Unterhaltung", sixx HD
+https://streams.wilmaa.com/m3u8/get?channelId=sixx_hd&profile=8
+#EXTINF:-1 tvg-id="DMax.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/dmax.png" group-title="Unterhaltung", DMAX
+https://streams.wilmaa.com/m3u8/get?channelId=dmax&profile=8
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tlc_de.png" group-title="Unterhaltung", TLC Germany
+https://streams.wilmaa.com/m3u8/get?channelId=tlc_de&profile=8
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/n24_hd.png" group-title="Information", WELT
+https://streams.wilmaa.com/m3u8/get?channelId=n24_hd&profile=8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/servus_tv_hd.png" group-title="Unterhaltung", Servus HD
+https://streams.wilmaa.com/m3u8/get?channelId=servus_tv_hd&profile=8
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/anixe_hd.png" group-title="Unterhaltung", Anixe HD
+https://streams.wilmaa.com/m3u8/get?channelId=anixe_hd&profile=8
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/weltderwunder.png" group-title="Unterhaltung", Welt der Wunder
+https://streams.wilmaa.com/m3u8/get?channelId=weltderwunder&profile=8
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/viva_hd.png" group-title="Unterhaltung", Comedy Central
+https://streams.wilmaa.com/m3u8/get?channelId=viva_hd&profile=8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/disney_channel_de.png" group-title="Kinder", Disney Channel
+https://streams.wilmaa.com/m3u8/get?channelId=disney_channel_de&profile=8
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kika_hd.png" group-title="Kinder", Kika HD
+https://streams.wilmaa.com/m3u8/get?channelId=kika_hd&profile=8
+#EXTINF:-1 tvg-id="Nickelodeon.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/nick_cc_hd.png" group-title="Kinder", Nick Schweiz
+https://streams.wilmaa.com/m3u8/get?channelId=nick_cc_hd&profile=8
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/toggo_plus.png" group-title="Kinder", TOGGO plus
+https://streams.wilmaa.com/m3u8/get?channelId=toggo_plus&profile=8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/einsextra.png" group-title="Information", tagesschau24
+https://streams.wilmaa.com/m3u8/get?channelId=einsextra&profile=8
+#EXTINF:-1 tvg-id="MTV.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/mtv_ch_hd.png" group-title="Musik", MTV CH HD
+https://streams.wilmaa.com/m3u8/get?channelId=mtv_ch_hd&profile=8
+#EXTINF:-1 tvg-id="BoxUpfront.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/heat.png" group-title="Musik", Box Upfront
+https://streams.wilmaa.com/m3u8/get?channelId=heat&profile=8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/deluxe_music.png" group-title="Musik", Deluxe Music TV
+https://streams.wilmaa.com/m3u8/get?channelId=deluxe_music&profile=8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/deutschesmusikfernsehen.png" group-title="Musik", Deutsches Musik Fernsehen
+https://streams.wilmaa.com/m3u8/get?channelId=deutschesmusikfernsehen&profile=8
+#EXTINF:-1 tvg-id="ChartShowTV.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/chart_show_tv_uk.png" group-title="Musik", Chart Show TV
+https://streams.wilmaa.com/m3u8/get?channelId=chart_show_tv_uk&profile=8
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kiss_tv.png" group-title="Musik", Kiss TV
+https://streams.wilmaa.com/m3u8/get?channelId=kiss_tv&profile=8
+#EXTINF:-1 tvg-id="go.tv" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/gotv_austria.png" group-title="Musik", GoTV
+https://streams.wilmaa.com/m3u8/get?channelId=gotv_austria&profile=8
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/clubland_tv.png" group-title="Musik", Clubland TV
+https://streams.wilmaa.com/m3u8/get?channelId=clubland_tv&profile=8
+#EXTINF:-1 tvg-id="ChilledTV.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/chilled_tv.png" group-title="Musik", Now 90s
+https://streams.wilmaa.com/m3u8/get?channelId=chilled_tv&profile=8
+#EXTINF:-1 tvg-id="Kronehit TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="Musik",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/b1/9f/3c/b19f3c389e3a52f14fc90736e4a00bd6.jpg" group-title="Musik",Country Music
+https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Musik",CMC-Country
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Musik",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="TV24.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv24_hd.png" group-title="Unterhaltung", TV24 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tv24_hd&profile=8
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/3_plus_hd.png" group-title="Unterhaltung", 3+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=3_plus_hd&profile=8
+#EXTINF:-1 tvg-id="TeleZuri.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_zuri_hd.png" group-title="Regional", TeleZüri HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_zuri_hd&profile=8
+#EXTINF:-1 tvg-id="TCZoom.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/teleclub_zoom_hd.png" group-title="Sport", Teleclub Zoom
+https://streams.wilmaa.com/m3u8/get?channelId=teleclub_zoom_hd&profile=8
+#EXTINF:-1 tvg-id="Puls8.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/puls_8.png" group-title="Unterhaltung", Puls acht
+https://streams.wilmaa.com/m3u8/get?channelId=puls_8&profile=8
+#EXTINF:-1 tvg-id="TV25.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv_25_hd.png" group-title="Unterhaltung", TV 25 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tv_25_hd&profile=8
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/4_plus_hd.png" group-title="Unterhaltung", 4+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=4_plus_hd&profile=8
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/5_plus_hd.png" group-title="Unterhaltung", 5+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=5_plus_hd&profile=8
+#EXTINF:-1 tvg-id="6plus.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/6_plus_hd.png" group-title="Unterhaltung", 6+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=6_plus_hd&profile=8
+#EXTINF:-1 tvg-id="Swiss1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/swiss1_tv_hd.png" group-title="Unterhaltung", Swiss 1 TV
+https://streams.wilmaa.com/m3u8/get?channelId=swiss1_tv_hd&profile=8
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/eurosport.png" group-title="Sport", Eurosport
+https://streams.wilmaa.com/m3u8/get?channelId=eurosport&profile=8
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sport_1.png" group-title="Sport", Sport1
+https://streams.wilmaa.com/m3u8/get?channelId=sport_1&profile=8
+#EXTINF:-1 tvg-id="QS24.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/qs24.png" group-title="Unterhaltung", QS24
+https://streams.wilmaa.com/m3u8/get?channelId=qs24&profile=8
+#EXTINF:-1 tvg-id="ntv.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/n_tv_hd.png" group-title="Information", n-tv HD
+https://streams.wilmaa.com/m3u8/get?channelId=n_tv_hd&profile=8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/euronews_de.png" group-title="Information", euronews DE
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_de&profile=8
+#EXTINF:-1 tvg-id="S1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/s1tv_hd.png" group-title="Unterhaltung", S1TV HD
+https://streams.wilmaa.com/m3u8/get?channelId=s1tv_hd&profile=8
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/star_tv.png" group-title="Unterhaltung", Star TV
+https://streams.wilmaa.com/m3u8/get?channelId=star_tv&profile=8
+#EXTINF:-1 tvg-id="TeleTop.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_top_zh.png" group-title="Regional", TELE TOP ZH
+https://streams.wilmaa.com/m3u8/get?channelId=tele_top_zh&profile=8
+#EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/telebaern.png" group-title="Regional", TeleBärn
+https://streams.wilmaa.com/m3u8/get?channelId=telebaern&profile=8
+#EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/telebasel.png" group-title="Regional", Telebasel
+https://streams.wilmaa.com/m3u8/get?channelId=telebasel&profile=8
+#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kanal_9.png" group-title="Unterhaltung", Kanal 9
+https://streams.wilmaa.com/m3u8/get?channelId=kanal_9&profile=8
+#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_biel.png" group-title="Regional", TeleBielingue
+https://streams.wilmaa.com/m3u8/get?channelId=tele_biel&profile=8
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ric.png" group-title="Kinder", RIC
+https://streams.wilmaa.com/m3u8/get?channelId=ric&profile=8
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_1_hd.png" group-title="Regional", Tele 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_1_hd&profile=8
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_m1_hd.png" group-title="Regional", Tele M1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_m1_hd&profile=8
+#EXTINF:-1 tvg-id="TVO.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_ostschweiz_hd.png" group-title="Regional", Tele Ostschweiz HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ostschweiz_hd&profile=8
+#EXTINF:-1 tvg-id="TSO.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tso_hd.png" group-title="Regional", TV Südostschweiz HD
+https://streams.wilmaa.com/m3u8/get?channelId=tso_hd&profile=8
+#EXTINF:-1 tvg-id="CNN.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cnn.png" group-title="Information", CNN International
+https://streams.wilmaa.com/m3u8/get?channelId=cnn&profile=8
+#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc_news_hd.png" group-title="Information", BBC News HD
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_news_hd&profile=8
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc_world_news.png" group-title="Information", BBC World News
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_world_news&profile=8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/e4.png" group-title="Unterhaltung", E4
+https://streams.wilmaa.com/m3u8/get?channelId=e4&profile=8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/channel_4_hd.png" group-title="Unterhaltung", Channel 4 HD
+https://streams.wilmaa.com/m3u8/get?channelId=channel_4_hd&profile=8
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/itv_1_hd.png" group-title="Unterhaltung", iTV HD
+https://streams.wilmaa.com/m3u8/get?channelId=itv_1_hd&profile=8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/itv_2.png" group-title="Unterhaltung", iTV 2
+https://streams.wilmaa.com/m3u8/get?channelId=itv_2&profile=8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/itv_3.png" group-title="Unterhaltung", iTV 3
+https://streams.wilmaa.com/m3u8/get?channelId=itv_3&profile=8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/itv-4.png" group-title="Unterhaltung", ITV 4
+https://streams.wilmaa.com/m3u8/get?channelId=itv-4&profile=8
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/itvbe.png" group-title="Unterhaltung", ITVBe
+https://streams.wilmaa.com/m3u8/get?channelId=itvbe&profile=8
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/more_4.png" group-title="Unterhaltung", More 4
+https://streams.wilmaa.com/m3u8/get?channelId=more_4&profile=8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/channel_5.png" group-title="Unterhaltung", Channel 5
+https://streams.wilmaa.com/m3u8/get?channelId=channel_5&profile=8
+#EXTINF:-1 tvg-id="AlJazeera.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ai_jazeera_en.png" group-title="Information", Al Jazeera English
+https://streams.wilmaa.com/m3u8/get?channelId=ai_jazeera_en&profile=8
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bloomberg_tv.png" group-title="Information", Bloomberg TV
+https://streams.wilmaa.com/m3u8/get?channelId=bloomberg_tv&profile=8
+#EXTINF:-1 tvg-id="CNBC.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cnbc.png" group-title="Information", CNBC
+https://streams.wilmaa.com/m3u8/get?channelId=cnbc&profile=8
+#EXTINF:-1 tvg-id="BBC1London.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc_1_hd.png" group-title="Unterhaltung", BBC One HD
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_1_hd&profile=8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc_2_hd.png" group-title="Unterhaltung", BBC Two HD
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_2_hd&profile=8
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/film_4.png" group-title="Unterhaltung", Film 4
+https://streams.wilmaa.com/m3u8/get?channelId=film_4&profile=8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/euronews_en.png" group-title="Information", Euronews EN
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_en&profile=8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc_3.png" group-title="Unterhaltung", BBC three
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_3&profile=8
+#EXTINF:-1 tvg-id="C8.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/direct_8.png" group-title="Unterhaltung", C8
+https://streams.wilmaa.com/m3u8/get?channelId=direct_8&profile=8
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/4seven_uk.png" group-title="Unterhaltung", 4Seven
+https://streams.wilmaa.com/m3u8/get?channelId=4seven_uk&profile=8
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/my5_uk.png" group-title="Unterhaltung", 5SELECT
+https://streams.wilmaa.com/m3u8/get?channelId=my5_uk&profile=8
+#EXTINF:-1 tvg-id="5Spike.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/5spike_uk.png" group-title="Unterhaltung", 5Spike
+https://streams.wilmaa.com/m3u8/get?channelId=5spike_uk&profile=8
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/5usa.png" group-title="Unterhaltung", 5USA
+https://streams.wilmaa.com/m3u8/get?channelId=5usa&profile=8
+#EXTINF:-1 tvg-id="Alice.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/alice_it.png" group-title="Unterhaltung", Alice
+https://streams.wilmaa.com/m3u8/get?channelId=alice_it&profile=8
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc-arabic.png" group-title="Information", BBC Arabic
+https://streams.wilmaa.com/m3u8/get?channelId=bbc-arabic&profile=8
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc-four.png" group-title="Unterhaltung", BBC Four
+https://streams.wilmaa.com/m3u8/get?channelId=bbc-four&profile=8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc-parliament.png" group-title="Information", BBC Parliament
+https://streams.wilmaa.com/m3u8/get?channelId=bbc-parliament&profile=8
+#EXTINF:-1 tvg-id="BeCuriousTV.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/becurioustv.png" group-title="Unterhaltung", beCuriousTV
+https://streams.wilmaa.com/m3u8/get?channelId=becurioustv&profile=8
+#EXTINF:-1 tvg-id="Boing.ir" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/boing.png" group-title="Kinder", Boing
+https://streams.wilmaa.com/m3u8/get?channelId=boing&profile=8
+#EXTINF:-1 tvg-id="BoosterTV.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/booster_tv.png" group-title="Unterhaltung", Booster TV
+https://streams.wilmaa.com/m3u8/get?channelId=booster_tv&profile=8
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/canal9.png" group-title="Regional", Canal9
+https://streams.wilmaa.com/m3u8/get?channelId=canal9&profile=8
+#EXTINF:-1 tvg-id="CNNMoney.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cnnmoney_switzerland.png" group-title="Information", CNN Money Switzerland
+https://streams.wilmaa.com/m3u8/get?channelId=cnnmoney_switzerland&profile=8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/dave_uk.png" group-title="Unterhaltung", Dave
+https://streams.wilmaa.com/m3u8/get?channelId=dave_uk&profile=8
+#EXTINF:-1 tvg-id="DAF.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/daf.png" group-title="Information", Der Aktionär TV
+https://streams.wilmaa.com/m3u8/get?channelId=daf&profile=8
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/deutschewelle_de.png" group-title="Information", Deutsche Welle
+https://streams.wilmaa.com/m3u8/get?channelId=deutschewelle_de&profile=8
+#EXTINF:-1 tvg-id="DeutscheWelleEN.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/deutsche-welle.png" group-title="Information", Deutsche Welle English
+https://streams.wilmaa.com/m3u8/get?channelId=deutsche-welle&profile=8
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/drama_uk.png" group-title="Unterhaltung", Drama
+https://streams.wilmaa.com/m3u8/get?channelId=drama_uk&profile=8
+#EXTINF:-1 tvg-id="eoTV.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/eotv.png" group-title="Unterhaltung", eoTV
+https://streams.wilmaa.com/m3u8/get?channelId=eotv&profile=8
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/food_network_uk.png" group-title="Unterhaltung", Food Network
+https://streams.wilmaa.com/m3u8/get?channelId=food_network_uk&profile=8
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/freesports_uk.png" group-title="Sport", FreeSports
+https://streams.wilmaa.com/m3u8/get?channelId=freesports_uk&profile=8
+#EXTINF:-1 tvg-id="HealthTV.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/health_tv_de.png" group-title="Unterhaltung", Health.tv
+https://streams.wilmaa.com/m3u8/get?channelId=health_tv_de&profile=8
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/hse24.png" group-title="Unterhaltung", HSE 24
+https://streams.wilmaa.com/m3u8/get?channelId=hse24&profile=8
+#EXTINF:-1 tvg-id="HSE24Extra.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/hse24_extra.png" group-title="Unterhaltung", HSE24 Extra
+https://streams.wilmaa.com/m3u8/get?channelId=hse24_extra&profile=8
+#EXTINF:-1 tvg-id="HSE24Trend.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/hse24_trend.png" group-title="Unterhaltung", HSE24 Trend
+https://streams.wilmaa.com/m3u8/get?channelId=hse24_trend&profile=8
+#EXTINF:-1 tvg-id="i24News.en.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/i24news_english.png" group-title="Information", i24NEWS EN
+https://streams.wilmaa.com/m3u8/get?channelId=i24news_english&profile=8
+#EXTINF:-1 tvg-id="KTV.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/ktv.png" group-title="Kultur", K-TV
+https://streams.wilmaa.com/m3u8/get?channelId=ktv&profile=8
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/n24_doku.png" group-title="Unterhaltung", N24 Doku
+https://streams.wilmaa.com/m3u8/get?channelId=n24_doku&profile=8
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/nasa_tv.png" group-title="Unterhaltung", NASA TV
+https://streams.wilmaa.com/m3u8/get?channelId=nasa_tv&profile=8
+#EXTINF:-1 tvg-id="ParamountNetwork.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/paramount_network_uk.png" group-title="Unterhaltung", Paramount Network
+https://streams.wilmaa.com/m3u8/get?channelId=paramount_network_uk&profile=8
+#EXTINF:-1 tvg-id="PBS.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/pbs_america.png" group-title="Unterhaltung", PBS America
+https://streams.wilmaa.com/m3u8/get?channelId=pbs_america&profile=8
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/pick_uk.png" group-title="Unterhaltung", Pick
+https://streams.wilmaa.com/m3u8/get?channelId=pick_uk&profile=8
+#EXTINF:-1 tvg-id="R9Osterreich.at" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/r9_at.png" group-title="Regional", R9 Österreich
+https://streams.wilmaa.com/m3u8/get?channelId=r9_at&profile=8
+#EXTINF:-1 tvg-id="RadioBremen.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/radio-bremen-tv.png" group-title="Regional", Radio Bremen TV
+https://streams.wilmaa.com/m3u8/get?channelId=radio-bremen-tv&profile=8
+#EXTINF:-1 tvg-id="RocketBeansTV.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rocketbeans.png" group-title="Unterhaltung", Rocket Beans TV
+https://streams.wilmaa.com/m3u8/get?channelId=rocketbeans&profile=8
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_plus.png" group-title="Unterhaltung", RTLplus
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_plus&profile=8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/s4c.png" group-title="Regional", S4C
+https://streams.wilmaa.com/m3u8/get?channelId=s4c&profile=8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/skynews-intl.png" group-title="Information", Sky News
+https://streams.wilmaa.com/m3u8/get?channelId=skynews-intl&profile=8
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sky_sport_news_de.png" group-title="Sport", Sky Sport News
+https://streams.wilmaa.com/m3u8/get?channelId=sky_sport_news_de&profile=8
+#EXTINF:-1 tvg-id="Sonlife.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sonlife.png" group-title="Kultur", SONLife
+https://streams.wilmaa.com/m3u8/get?channelId=sonlife&profile=8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sr-fernsehen.png" group-title="Regional", SR Fernsehen
+https://streams.wilmaa.com/m3u8/get?channelId=sr-fernsehen&profile=8
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/travelchannel_en.png" group-title="Unterhaltung", Travel Channel
+https://streams.wilmaa.com/m3u8/get?channelId=travelchannel_en&profile=8
+#EXTINF:-1 tvg-id="VisitX.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/visitx.png" group-title="Unterhaltung", VISIT-X.tv
+https://streams.wilmaa.com/m3u8/get?channelId=visitx&profile=8
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/yesterday_uk.png" group-title="Unterhaltung", Yesterday
+https://streams.wilmaa.com/m3u8/get?channelId=yesterday_uk&profile=8
+#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/zee_one.png" group-title="Unterhaltung", Zee.One
+https://streams.wilmaa.com/m3u8/get?channelId=zee_one&profile=8
