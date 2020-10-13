@@ -1,0 +1,101 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_1_hd.png" group-title="ITALIENISCH", Rai 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rai_1_hd&profile=8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_2.png" group-title="ITALIENISCH", Rai 2
+https://streams.wilmaa.com/m3u8/get?channelId=rai_2&profile=8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_3.png" group-title="ITALIENISCH", Rai 3
+https://streams.wilmaa.com/m3u8/get?channelId=rai_3&profile=8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_4.png" group-title="ITALIENISCH", Rai 4
+https://streams.wilmaa.com/m3u8/get?channelId=rai_4&profile=8
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_movie.png" group-title="ITALIENISCH", Rai Movie
+https://streams.wilmaa.com/m3u8/get?channelId=rai_movie&profile=8
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_premium.png" group-title="ITALIENISCH", Rai Premium
+https://streams.wilmaa.com/m3u8/get?channelId=rai_premium&profile=8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_storia.png" group-title="ITALIENISCH", Rai Storia
+https://streams.wilmaa.com/m3u8/get?channelId=rai_storia&profile=8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_scuola.png" group-title="ITALIENISCH", Rai Scuola
+https://streams.wilmaa.com/m3u8/get?channelId=rai_scuola&profile=8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_yoyo.png" group-title="ITALIENISCH", Rai Yoyo
+https://streams.wilmaa.com/m3u8/get?channelId=rai_yoyo&profile=8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_gulp.png" group-title="ITALIENISCH", Rai Gulp
+https://streams.wilmaa.com/m3u8/get?channelId=rai_gulp&profile=8
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rsi_la_1_hd.png" group-title="ITALIENISCH", RSI La 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_hd&profile=8
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rsi_la_2_hd.png" group-title="ITALIENISCH", RSI La 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_hd&profile=8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/italia_1_hd.png" group-title="ITALIENISCH", Italia 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=italia_1_hd&profile=8
+#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tele_ticino.png" group-title="ITALIENISCH", TeleTicino
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ticino&profile=8
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/paramount_channel_it.png" group-title="ITALIENISCH", Paramount Channel Italy
+https://streams.wilmaa.com/m3u8/get?channelId=paramount_channel_it&profile=8
+#EXTINF:-1 tvg-id="CineSonyItalia.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cine_sony_it.png" group-title="ITALIENISCH", Mediaset Extra
+https://streams.wilmaa.com/m3u8/get?channelId=cine_sony_it&profile=8
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_sport_1.png" group-title="ITALIENISCH", Rai Sport 1
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_1&profile=8
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_sport_2.png" group-title="ITALIENISCH", Rai Sport 2
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_2&profile=8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_news.png" group-title="ITALIENISCH", Rai News
+https://streams.wilmaa.com/m3u8/get?channelId=rai_news&profile=8
+#EXTINF:-1 tvg-id="La7.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/la_7.png" group-title="ITALIENISCH", La7
+https://streams.wilmaa.com/m3u8/get?channelId=la_7&profile=8
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cielo.png" group-title="ITALIENISCH", Cielo
+https://streams.wilmaa.com/m3u8/get?channelId=cielo&profile=8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/canale_5_hd.png" group-title="ITALIENISCH", Canale 5 HD
+https://streams.wilmaa.com/m3u8/get?channelId=canale_5_hd&profile=8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rete_4_hd.png" group-title="ITALIENISCH", Rete4 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rete_4_hd&profile=8
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtl_1025_tv.png" group-title="ITALIENISCH", RTL 102.5 TV
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_1025_tv&profile=8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv_8.png" group-title="ITALIENISCH", TV 8
+https://streams.wilmaa.com/m3u8/get?channelId=tv_8&profile=8
+#EXTINF:-1 tvg-id="EuronewsIT.nws" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/euronews_it.png" group-title="ITALIENISCH", Euronews IT
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_it&profile=8
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/20_mediaset_it.png" group-title="ITALIENISCH", 20 Mediaset
+https://streams.wilmaa.com/m3u8/get?channelId=20_mediaset_it&profile=8
+#EXTINF:-1 tvg-id="Alice.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/alice_it.png" group-title="ITALIENISCH", Alice
+https://streams.wilmaa.com/m3u8/get?channelId=alice_it&profile=8
+#EXTINF:-1 tvg-id="CanaleItalia.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/canale_italia.png" group-title="ITALIENISCH", Canale Italia
+https://streams.wilmaa.com/m3u8/get?channelId=canale_italia&profile=8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cartoonito_it.png" group-title="ITALIENISCH", Cartoonito
+https://streams.wilmaa.com/m3u8/get?channelId=cartoonito_it&profile=8
+#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/class_tv_moda.png" group-title="ITALIENISCH", Class TV Moda
+https://streams.wilmaa.com/m3u8/get?channelId=class_tv_moda&profile=8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/dmaxitalia.png" group-title="ITALIENISCH", DMAX Italia
+https://streams.wilmaa.com/m3u8/get?channelId=dmaxitalia&profile=8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/focus_it.png" group-title="ITALIENISCH", Focus
+https://streams.wilmaa.com/m3u8/get?channelId=focus_it&profile=8
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/iris.png" group-title="ITALIENISCH", Iris
+https://streams.wilmaa.com/m3u8/get?channelId=iris&profile=8
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/italia_2.png" group-title="ITALIENISCH", Italia 2
+https://streams.wilmaa.com/m3u8/get?channelId=italia_2&profile=8
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/frisbee_it.png" group-title="ITALIENISCH", Frisbee
+https://streams.wilmaa.com/m3u8/get?channelId=frisbee_it&profile=8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/giallo_it.png" group-title="ITALIENISCH", Giallo
+https://streams.wilmaa.com/m3u8/get?channelId=giallo_it&profile=8
+#EXTINF:-1 tvg-id="K2.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/k2_it.png" group-title="ITALIENISCH", K2
+https://streams.wilmaa.com/m3u8/get?channelId=k2_it&profile=8
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/la_7_d.png" group-title="ITALIENISCH", La 7 d
+https://streams.wilmaa.com/m3u8/get?channelId=la_7_d&profile=8
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/la_5.png" group-title="ITALIENISCH", La5
+https://streams.wilmaa.com/m3u8/get?channelId=la_5&profile=8
+#EXTINF:-1 tvg-id="Marcopolo.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/marcopolo_it.png" group-title="ITALIENISCH", Marcopolo
+https://streams.wilmaa.com/m3u8/get?channelId=marcopolo_it&profile=8
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/nove_it.png" group-title="ITALIENISCH", NOVE
+https://streams.wilmaa.com/m3u8/get?channelId=nove_it&profile=8
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rai_5.png" group-title="ITALIENISCH", Rai 5
+https://streams.wilmaa.com/m3u8/get?channelId=rai_5&profile=8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/sky_tg24_it.png" group-title="ITALIENISCH", Sky TG24
+https://streams.wilmaa.com/m3u8/get?channelId=sky_tg24_it&profile=8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/real_time_it.png" group-title="ITALIENISCH", Real Time
+https://streams.wilmaa.com/m3u8/get?channelId=real_time_it&profile=8
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/spike_italia.png" group-title="ITALIENISCH", Spike Italia
+https://streams.wilmaa.com/m3u8/get?channelId=spike_italia&profile=8
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/super_it.png" group-title="ITALIENISCH", Super!
+https://streams.wilmaa.com/m3u8/get?channelId=super_it&profile=8
+#EXTINF:-1 tvg-id="Telepace.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/telepace.png" group-title="ITALIENISCH", Telepace
+https://streams.wilmaa.com/m3u8/get?channelId=telepace&profile=8
+#EXTINF:-1 tvg-id="UNINETTUNOUniversityTV.it" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/uninettuno_it.png" group-title="ITALIENISCH", UniNettuno University TV
+https://streams.wilmaa.com/m3u8/get?channelId=uninettuno_it&profile=8
+#EXTINF:-1 tvg-id="Boing.ir" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/boing.png" group-title="ITALIENISCH", Boing
+https://streams.wilmaa.com/m3u8/get?channelId=boing&profile=8
