@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="BVN.be" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bvn.png" group-title="INTERNATIONAL", BVN
+https://streams.wilmaa.com/m3u8/get?channelId=bvn&profile=8
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/nasa_tv.png" group-title="INTERNATIONAL", NASA TV
+https://streams.wilmaa.com/m3u8/get?channelId=nasa_tv&profile=8
+#EXTINF:-1 tvg-id="NetViet.vn" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/netviet_vn.png" group-title="INTERNATIONAL", NETVIET
+https://streams.wilmaa.com/m3u8/get?channelId=netviet_vn&profile=8
+#EXTINF:-1 tvg-id="RTDocumentary.pl" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rt_doc.png" group-title="INTERNATIONAL", RT Doc
+https://streams.wilmaa.com/m3u8/get?channelId=rt_doc&profile=8
+#EXTINF:-1 tvg-id="DeutscheWelleES.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/deutschewelle_es.png" group-title="INTERNATIONAL", Deutsche Welle Spanish
+https://streams.wilmaa.com/m3u8/get?channelId=deutschewelle_es&profile=8
+#EXTINF:-1 tvg-id="TVE.es" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tve.png" group-title="INTERNATIONAL", TVE Int.
+https://streams.wilmaa.com/m3u8/get?channelId=tve&profile=8
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/canal24horas.png" group-title="INTERNATIONAL", 24H
+https://streams.wilmaa.com/m3u8/get?channelId=canal24horas&profile=8
+#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/kuriakos_tv.png" group-title="INTERNATIONAL", KuriakosTV
+https://streams.wilmaa.com/m3u8/get?channelId=kuriakos_tv&profile=8
+#EXTINF:-1 tvg-id="RecordNews.pt" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/record_news.png" group-title="INTERNATIONAL", Record News
+https://streams.wilmaa.com/m3u8/get?channelId=record_news&profile=8
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtp_internacional.png" group-title="INTERNATIONAL", RTP Internacional
+https://streams.wilmaa.com/m3u8/get?channelId=rtp_internacional&profile=8
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/record_tv.png" group-title="INTERNATIONAL", Record TV
+https://streams.wilmaa.com/m3u8/get?channelId=record_tv&profile=8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rtp_3.png" group-title="INTERNATIONAL", RTP 3
+https://streams.wilmaa.com/m3u8/get?channelId=rtp_3&profile=8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tr_kanal_7.png" group-title="INTERNATIONAL", Kanal 7 Avrupa
+https://streams.wilmaa.com/m3u8/get?channelId=tr_kanal_7&profile=8
+#EXTINF:-1 tvg-id="31.HaberTURK.digiturk.com.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/haber_turk.png" group-title="INTERNATIONAL", Haber Turk
+https://streams.wilmaa.com/m3u8/get?channelId=haber_turk&profile=8
+#EXTINF:-1 tvg-id="EUROSTAR.il" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tr_euro_star.png" group-title="INTERNATIONAL", Euro Star
+https://streams.wilmaa.com/m3u8/get?channelId=tr_euro_star&profile=8
+#EXTINF:-1 tvg-id="EuroD.bg" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tr_euro_d.png" group-title="INTERNATIONAL", Euro D
+https://streams.wilmaa.com/m3u8/get?channelId=tr_euro_d&profile=8
+#EXTINF:-1 tvg-id="CNN.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/cnn_turk.png" group-title="INTERNATIONAL", CNN Türk
+https://streams.wilmaa.com/m3u8/get?channelId=cnn_turk&profile=8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/halk_tv.png" group-title="INTERNATIONAL", Halk TV
+https://streams.wilmaa.com/m3u8/get?channelId=halk_tv&profile=8
+#EXTINF:-1 tvg-id="15.Show TV.digiturk.com.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tr_show_turk.png" group-title="INTERNATIONAL", Show Turk
+https://streams.wilmaa.com/m3u8/get?channelId=tr_show_turk&profile=8
+#EXTINF:-1 tvg-id="PowerTurk.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/power_turk.png" group-title="INTERNATIONAL", Power Turk TV
+https://streams.wilmaa.com/m3u8/get?channelId=power_turk&profile=8
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/dream_turk.png" group-title="INTERNATIONAL", Dream Türk
+https://streams.wilmaa.com/m3u8/get?channelId=dream_turk&profile=8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/tv8.png" group-title="INTERNATIONAL", TV 8 int
+https://streams.wilmaa.com/m3u8/get?channelId=tv8&profile=8
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc-arabic.png" group-title="INTERNATIONAL", BBC Arabic
+https://streams.wilmaa.com/m3u8/get?channelId=bbc-arabic&profile=8
+#EXTINF:-1 tvg-id="DeutscheWelleAR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/deutschewelle_ar.png" group-title="INTERNATIONAL", Deutsche Welle Arabic
+https://streams.wilmaa.com/m3u8/get?channelId=deutschewelle_ar&profile=8
