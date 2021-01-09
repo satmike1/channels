@@ -1,0 +1,97 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai_1" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai1_hd.png" group-title="ITALIEN",Rai 1 HD (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_1_hd
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai_2" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai2.png" group-title="ITALIEN",Rai 2 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_2
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai_3" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai3.png" group-title="ITALIEN",Rai 3 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_3
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai_4" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai4.png" group-title="ITALIEN",Rai 4 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_4
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai_5" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai5.png" group-title="ITALIEN",Rai 5 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_5
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai_Gulp" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_gulp.png" group-title="ITALIEN",Rai Gulp (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_gulp
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai_Movie" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_movie.png" group-title="ITALIEN",Rai Movie (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_movie
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai_Premium" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_premium.png" group-title="ITALIEN",Rai Premium (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_premium
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai_Storia" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_storia.png" group-title="ITALIEN",Rai Storia (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_storia
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20_Mediaset" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/20_mediaset.png" group-title="ITALIEN",20 Mediaset (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=20_mediaset_it
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia_1" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/italia1.png" group-title="ITALIEN",Italia 1 HD (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=italia_1_hd
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia_2" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/italia2.png" group-title="ITALIEN",Italia 2 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=italia_2
+#EXTINF:-1 tvg-id="Boing.ir" tvg-name="Boing_I" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/boing.png" group-title="ITALIEN",Boing (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=boing
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale_5" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/canale5.png" group-title="ITALIEN",Canale 5 HD (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=canale_5_hd
+#EXTINF:-1 tvg-id="CanaleItalia.it" tvg-name="Canale_Italia" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/canale_italia.png" group-title="ITALIEN",Canale Italia (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=canale_italia
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="cartoonito" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/cartoonito.png" group-title="ITALIEN",Cartoonito (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=cartoonito_it
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/cielo.png" group-title="ITALIEN",Cielo (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=cielo
+#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="Class_TV_Moda" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/classtv_moda.png" group-title="ITALIEN",Class TV Moda (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=class_tv_moda
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX_Italia" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/dmax_italia.png" group-title="ITALIEN",DMAX Italia (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=dmaxitalia
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/frisbee.png" group-title="ITALIEN",Frisbee (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=frisbee_it
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/focus.png" group-title="ITALIEN",Focus (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=focus_it
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/giallo.png" group-title="ITALIEN",Giallo (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=giallo_it
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/iris.png" group-title="ITALIEN",Iris (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=iris
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/k2.png" group-title="ITALIEN",K2 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=k2_it
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="La5" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/la5.png" group-title="ITALIEN",La5 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=la_5
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La_7" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/la7.png" group-title="ITALIEN",La7 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=la_7
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="La_7d" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/la7d.png" group-title="ITALIEN",La 7 d (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=la_7_d
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset_Extra" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/mediaset_extra.png" group-title="ITALIEN",Media Set Extra (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=cine_sony_it
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/nove.png" group-title="ITALIEN",NOVE (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=nove_it
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount_Channel_I" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/paramount_channel.png" group-title="ITALIEN",Paramount Channel (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=paramount_channel_it
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai_News" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_news.png" group-title="ITALIEN",Rai News (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_news
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai_Scuola" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_scuola.png" group-title="ITALIEN",Rai Scuola (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_scuola
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai_Sport_1" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_sport1.png" group-title="ITALIEN",Rai Sport 1 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_1
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai_Sport_2" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_sport2.png" group-title="ITALIEN",Rai Sport 2 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_2
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai_Yoyo" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai_yoyo.png" group-title="ITALIEN",Rai Yoyo (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rai_yoyo
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real_Time" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/real_time.png" group-title="ITALIEN",Real Time (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=real_time_it
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete_4" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rete4.png" group-title="ITALIEN",Rete4 HD (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rete_4_hd
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RSI_La1_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rsi_la1_hd.png" group-title="ITALIEN",RSI La 1 HD (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_original_hd
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI_La2_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rsi_la2_hd.png" group-title="ITALIEN",RSI La 2 HD (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_original_hd
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL_102.5_TV_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rtl1025.png" group-title="ITALIEN",RTL 102.5 TV (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_1025_tv
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="sky_TG_24" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/sky_tg24.png" group-title="ITALIEN",Sky TG24 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=sky_tg24_it
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="Spike" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/spike.png" group-title="ITALIEN",Spike Italia (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=spike_italia
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/super.png" group-title="ITALIEN",Super! (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=super_it
+#EXTINF:-1 tvg-id="Telepace.it" tvg-name="Telepace" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/telepace.jpg" group-title="ITALIEN",Telepace (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=telepace
+#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="Tele_Ticino" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/teleticino.jpg" group-title="ITALIEN",TeleTicino (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ticino
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV8" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/tv8.png" group-title="ITALIEN",TV 8 (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=tv_8
+#EXTINF:-1 tvg-id="UNINETTUNOUniversityTV.it" tvg-name="UNINETTUNO_University_TV" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/uninettuno_university_tv.png" group-title="ITALIEN",UniNettuno University TV (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=uninettuno_it
+#EXTINF:-1 tvg-id="EuronewsIT.nws" tvg-name="Euronews_I" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/euronews.png" group-title="ITALIEN",Euronews (IT)
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_it
