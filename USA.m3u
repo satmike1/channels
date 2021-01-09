@@ -1,0 +1,125 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="UNITED STATES",CBS-USA
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="UNITED STATES",NBC-USA
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" group-title="UNITED STATES",Pop-USA
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png" group-title="UNITED STATES",ET Live-USA
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="UNITED STATES",Paramount Movies-USA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="UNITED STATES",CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="UNITED STATES",Redbox | Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="UNITED STATES",Redbox | Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="UNITED STATES",Redbox | Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="UNITED STATES",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="UNITED STATES",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="UNITED STATES",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="UNITED STATES",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="UNITED STATES",Stirr | Filmrise 
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="UNITED STATES",STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="UNITED STATES",Stirr | MovieMix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="UNITED STATES",Stirr Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="UNITED STATES",Stirr Comedy
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="UNITED STATES",Stirr Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="UNITED STATES",Stirr | Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="UNITED STATES",STIRR Biographies
+https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="UNITED STATES",STIRR CITY
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="UNITED STATES",STIRR Music
+https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="UNITED STATES",STIRR Cooks
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="UNITED STATES",STIRR Fit
+https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="UNITED STATES",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="UNITED STATES",30A TV
+https://30a-tv.com/my999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="UNITED STATES",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="UNITED STATES",30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="UNITED STATES",30A TV
+https://30a-tv.com/my999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="UNITED STATES",3News Now (KMTV-TV)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="UNITED STATES",7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="UNITED STATES",A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg" group-title="UNITED STATES",ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="UNITED STATES",ABC 9 Chattanooga TN (WTVC)
+https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/hjvjGVf.png" group-title="UNITED STATES",American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="UNITED STATES",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="UNITED STATES",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="UNITED STATES",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/T1VHfY5.jpg" group-title="UNITED STATES",Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/2SGJCBI.png" group-title="UNITED STATES",Black Artist
+https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/KjDQSPu.jpg" group-title="UNITED STATES",Black Widow TV
+https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="UNITED STATES",CARTOON NETWORK
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/BjO1ABv.jpg" group-title="UNITED STATES",CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="UNITED STATES",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/S7ZbPTz.png" group-title="UNITED STATES",Cheddar Big News
+https://live.chdrstatic.com/cheddar/primary/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="UNITED STATES",Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png" group-title="UNITED STATES",CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" group-title="UNITED STATES",ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="UNITED STATES",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/kAYiaJS.png" group-title="UNITED STATES",Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="UNITED STATES",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/zJ5idav.jpg" group-title="UNITED STATES",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/ocMGZM6.png" group-title="UNITED STATES",Kentucky | PBS KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="UNITED STATES",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/SvY0iSk.jpg" group-title="UNITED STATES",Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="UNITED STATES",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="UNITED STATES",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="UNITED STATES",Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="UNITED STATES",Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/K36sd0M.png" group-title="UNITED STATES",Prime Time Drama
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="UNITED STATES",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
