@@ -1,0 +1,303 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="",Das Erste
+https://mcdn.daserste.de/daserste/de/master_3628.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR Fernsehen BW" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="",SWR Baden-Württemberg
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="",hr-fernsehen
+http://clientportal.link:80/0303182E188/8IBiiR241/12316
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen Süd" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="",BR Fernsehen
+http://clientportal.link:80/0303182E188/8IBiiR241/16495
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="",WDR
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3628.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Fernsehen NDS" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="",NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="MDR S-Anhalt" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="",MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb Berlin" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="",rbb Berlin
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" group-title="",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfokanal" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" group-title="",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ard-alpha" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="One" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" group-title="",one
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" group-title="",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="",ARTE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="",RTL
+http://clientportal.link:80/0303182E188/8IBiiR241/3825
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="",RTL II
+http://clientportal.link:80/0303182E188/8IBiiR241/3826
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/superrtlhd.jpg" group-title="",Super RTL
+http://clientportal.link:80/0303182E188/8IBiiR241/14044
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtlnitrohd.jpg" group-title="",NITRO
+http://clientportal.link:80/0303182E188/8IBiiR241/14048
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="",RTL Plus
+http://clientportal.link:80/0303182E188/8IBiiR241/19655
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="",SAT.1
+http://clientportal.link:80/0303182E188/8IBiiR241/14047
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat1 Gold" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="",SAT.1 Gold
+http://clientportal.link:80/0303182E188/8IBiiR241/12309
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="",ProSieben
+http://clientportal.link:80/0303182E188/8IBiiR241/14052
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxxhd.jpg" group-title="",ProSieben Maxx
+http://clientportal.link:80/0303182E188/8IBiiR241/14051
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel eins" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="",Kabel Eins
+http://clientportal.link:80/0303182E188/8IBiiR241/1649
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="",Kabel 1 Doku
+http://clientportal.link:80/0303182E188/8IBiiR241/17167
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="",VOX
+http://clientportal.link:80/0303182E188/8IBiiR241/14291
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="",Voxup
+http://clientportal.link:80/0303182E188/8IBiiR241/52134
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="",Tele 5
+http://clientportal.link:80/0303182E188/8IBiiR241/12325
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="sixx" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="",Sixx
+http://clientportal.link:80/0303182E188/8IBiiR241/14046
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="",DMAX
+http://clientportal.link:80/0303182E188/8IBiiR241/19683
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="",TLC
+http://clientportal.link:80/0303182E188/8IBiiR241/15757
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="ServusTV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png" group-title="",ServusTV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="ANIXE HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" group-title="",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="",Welt der Wunder DE
+http://clientportal.link:80/0303182E188/8IBiiR241/12305
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="",Comedy Central HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/19677
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="",n-tv HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14054
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="",Disney Channel HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14056
+#EXTINF:-1 tvg-id="Nick.de" tvg-name="Nickelodeon" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" group-title="",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="",TOGGO plus DE
+http://clientportal.link:80/0303182E188/8IBiiR241/12323
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC / eoTV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png" group-title="",RiC / eoTV
+https://www.youtube.com/embed/lpNnFuJXDV4
+#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="",eoTV HD
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="",n-tv DE
+http://clientportal.link:80/0303182E188/8IBiiR241/3449
+#EXTINF:-1 tvg-id="euronews.com" tvg-name="euronews deutsch" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png" group-title="",euronews deutsch
+https://www.youtube.com/embed/gdyuPcnSDuY
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="Deutsche Welle" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="",MTV Germany
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png" group-title="",Sky Sport News HD
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+#EXTINF:-1 tvg-id="MTVMusic24" tvg-name="MTV Music 24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="",MTV Music 24
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
+#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png" group-title="",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" group-title="",DELUXE MUSIC
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone.TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png" group-title="",Krone.TV
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALEX Berlin" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="",ALEX Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="health.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png" group-title="",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rhein Neckar Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png" group-title="",Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nice" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png" group-title="",nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="",Discovery Channel HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14063
+#EXTINF:-1 tvg-id="History.de" tvg-name="History HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="",History HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14311
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="",National Geographic FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14053
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="",National Geographic Wild FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14062
+#EXTINF:-1 tvg-id="Doxx.de" tvg-name="Doxx" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/45/DOXX_Logo_2020.svg/120px-DOXX_Logo_2020.svg.png" group-title="",Doxx
+http://clientportal.link:80/0303182E188/8IBiiR241/18394
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="",Spiegel Geschichte HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/16573
+#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissen.jpg" group-title="",Spiegel TV Wissen DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14045
+#EXTINF:-1 tvg-id="" tvg-name="Geo TV HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/geotvde.jpg" group-title="",Geo TV HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/72670
+#EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix & Foxi DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/fixundfoxi.jpg" group-title="",Fix & Foxi DE
+http://clientportal.link:80/0303182E188/8IBiiR241/20263
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/junior.jpg" group-title="",Junior DE
+http://clientportal.link:80/0303182E188/8IBiiR241/20207
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionhd.jpg" group-title="",Sky Cinema Action DE
+http://clientportal.link:80/0303182E188/8IBiiR241/3432
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionhd.jpg" group-title="",Sky Cinema Action FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14307
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyatlantichd.jpg" group-title="",Sky Atlantic FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14306
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemade.jpg" group-title="",Sky Cinema Best Of DE
+http://clientportal.link:80/0303182E188/8IBiiR241/16803
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemade.jpg" group-title="",Sky Cinema Best Of FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14305
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="",Sky Cinema Classics DE
+http://clientportal.link:80/0303182E188/8IBiiR241/9556
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Dark Future DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="",Sky Cinema Dark Future DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28535
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="",Sky Cinema Fun DE
+http://clientportal.link:80/0303182E188/8IBiiR241/3430
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24.jpg" group-title="",Sky Cinema Premieren +24 DE
+http://clientportal.link:80/0303182E188/8IBiiR241/1633
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24hd.jpg" group-title="",Sky Cinema Premieren +24 FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/15575
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="",Sky Cinema Premieren DE
+http://clientportal.link:80/0303182E188/8IBiiR241/1634
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemahd.jpg" group-title="",Sky Cinema Premieren FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14061
+#EXTINF:-1 tvg-id="SkyCinemaSpezial.de" tvg-name="Sky Cinema Special FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemaspecialde.jpg" group-title="",Sky Cinema Special FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14312
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemathrillerde.jpg" group-title="",Sky Cinema Thriller FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/37451
+#EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="",Sky Family FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/15576
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skykrimi.jpg" group-title="",Sky Krimi DE
+http://clientportal.link:80/0303182E188/8IBiiR241/3429
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 1 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11265
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 2 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11266
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 3 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11267
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 4 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11268
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 5 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11269
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="Sky Select 6 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 6 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11270
+#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="Sky Select 7 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 7 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11271
+#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="Sky Select 8 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 8 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/11272
+#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="",Sky Select 9 Live DE
+http://clientportal.link:80/0303182E188/8IBiiR241/12290
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="",Syfy HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14043
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="",13th Street FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14060
+#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="",Crime + Investigation DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28577
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="",Universal Channel HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/3439
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="",Sony AXN FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/9562
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt TV DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinowelttv.jpg" group-title="",Kinowelt TV DE
+http://clientportal.link:80/0303182E188/8IBiiR241/12291
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="",ProSieben Fun HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/16627
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/tntcomedyhd.jpg" group-title="",TNT Comedy HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/15577
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/tntfilmhd.jpg" group-title="",TNT Film FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/16628
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/tntseriehd.jpg" group-title="",TNT Serie HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14303
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehd.jpg" group-title="",RTL Crime HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/15570
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="",RTL Living HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/3202
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="",RTL Passion HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/9563
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="",FOX FHD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/14055
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="",Kabel Eins Classics DE
+http://clientportal.link:80/0303182E188/8IBiiR241/16581
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/heimatkanal.jpg" group-title="",Heimatkanal DE
+http://clientportal.link:80/0303182E188/8IBiiR241/9558
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="",Romance TV DE
+http://clientportal.link:80/0303182E188/8IBiiR241/13111
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="",CLASSICA DE
+http://clientportal.link:80/0303182E188/8IBiiR241/9555
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 1 Premiere HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26323
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 10 Lacheln HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26332
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 2 Aktion HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 2 Aktion HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26324
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 3 Komodie HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 3 Komodie HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26325
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 4 Abenteuer HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 4 Abenteuer HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26326
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 5 Animation HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 5 Animation HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26327
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 6 Thriller HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 6 Thriller HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26328
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 7 Horror HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 7 Horror HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26329
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 8 Drama HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 8 Drama HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26330
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 9 Sci-Fi HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="",Eagle Cinema 9 Sci-Fi HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/26331
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="",Kino Premiere 1 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/18234
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="",Kino Premiere 2 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/18235
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="",Kino Premiere 3 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/18236
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 4 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="",Kino Premiere 4 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/18237
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 5 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="",Kino Premiere 5 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/18238
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 6 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="",Kino Premiere 6 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/18239
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 1 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 1 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24231
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 2 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 2 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24232
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 3 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 3 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24233
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 4 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 4 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24234
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 5 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 5 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24235
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 6 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 6 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24236
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 7 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 7 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24237
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 8 HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telefussballde.jpg" group-title="",Telekom Fussball 8 HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/24238
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 1 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 1 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28381
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 2 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 2 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28382
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 3 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 3 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28383
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 4 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 4 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28384
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 5 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 5 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28385
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 6 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 6 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28386
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 7 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="",Telekom Del Sport 7 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28387
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 1 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="",Telekom Sport BBL 1 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28377
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 2 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="",Telekom Sport BBL 2 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28378
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 3 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="",Telekom Sport BBL 3 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28379
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 4 HD (nur Spiel Tag) DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="",Telekom Sport BBL 4 HD (nur Spiel Tag) DE
+http://clientportal.link:80/0303182E188/8IBiiR241/28380
+#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="",Frauen Bundesliga HD DE
+http://clientportal.link:80/0303182E188/8IBiiR241/35184
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="",JukeBox DE
+http://clientportal.link:80/0303182E188/8IBiiR241/15579
+#EXTINF:-1 tvg-id="" tvg-name="German Tote TV DE" tvg-shift="" radio="" tvg-logo="https://picon-13398.kxcdn.com/germantotede.jpg" group-title="",German Tote TV DE
+http://clientportal.link:80/0303182E188/8IBiiR241/23945
